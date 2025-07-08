@@ -1,0 +1,30 @@
+Basic Calculator
+Select operation:
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Enter choice (1/2/3/4): 1
+Enter first number: 10
+Enter second number: 5
+Result: 15.0
+
+
+
+Enter choice (1/2/3/4): 2
+Enter first number: 8
+Enter second number: 3
+Result: 5.0
+
+
+
+Enter choice (1/2/3/4): 3
+Enter first number: 4
+Enter second number: 6
+Result: 24.0
+
+
+Enter choice (1/2/3/4): 4
+Enter first number: 25
+Enter second number: 0
+Result: Error! Division by zero.
